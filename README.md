@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deep
+- 👋 Hi, I’m Rajarshi
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Azure DevOps
